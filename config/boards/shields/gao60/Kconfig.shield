@@ -1,2 +1,0 @@
-config SHIELD_GAO60
-    def_bool $(shields_list_contains, gao60)
