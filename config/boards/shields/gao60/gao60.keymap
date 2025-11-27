@@ -12,8 +12,8 @@
         sys_sleep: behavior_system_sleep {
             compatible = "zmk,behavior-system-sleep";
             label = "sys_sleep";
-            };
         };
+    };
 
     keymap {
         compatible = "zmk,keymap";
