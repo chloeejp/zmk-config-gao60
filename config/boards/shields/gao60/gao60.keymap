@@ -9,6 +9,10 @@
             compatible = "zmk,behavior-system-sleep";
             label = "sys_sleep";
         };
+        studio_rpc_unlock: behavior_studio_rpc_unlock {
+            compatible = "zmk,behavior-studio-rpc-unlock";
+            label = "studio_rpc_unlock";
+        };
     };
 
     keymap {
