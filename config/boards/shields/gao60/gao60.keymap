@@ -3,10 +3,6 @@
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/outputs.h>
 
-#define DEFAULT 0
-#define FN 1
-#define BT 2
-
 / {
     behaviors {
         sys_sleep: behavior_system_sleep {
